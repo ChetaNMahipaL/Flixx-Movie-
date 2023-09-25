@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Flixx project is a web application that replicates the functionality of the IMDb website. It provides users with information about movies and TV shows, including details such as ratings, budgets, cast, and more. The application also features sections for top-rated movies, top-rated TV shows, and trending content. Users can easily filter and search for movies and TV shows by genre. The project is built using JavaScript for the frontend and leverages LiveServer for live development and testing.
+The Flixx project is a web application that replicates the functionality of the IMDb website. It provides users with information about movies and TV shows, including details such as ratings, budgets, cast, and more. The application also features sections for top-rated movies, top-rated TV shows, and trending content. Users can easily filter and search for movies and TV shows. The project is built using JavaScript for the frontend and leverages LiveServer for live development and testing.
 
 ## Features
 
